@@ -11,6 +11,7 @@ to increase their score. This game will be getting progressively harder
 * system where collecting more points will make the game faster and perhaps more complex obstacle patterns
 
 **Development Plan for the next 2 weeks**
+
 Over the next few weeks, I plan to polish what I already created, adding animations, tidying up the code,
 and adding more comments. I also plan to imporve tje core gameplay mechanics, like the controller, obstacle spawining
 syetm, and basic mechanics.
