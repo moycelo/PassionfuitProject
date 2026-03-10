@@ -20,7 +20,7 @@ In addition, I plan to design a new menu screen, score display and figuring out 
 Visual and audio will be added to improve the overall presentation
 
 **Assets**
-Assets used in this projects is called Samurai 2D Art.  
+Assets used in this projects is called Samurai 2D Art by Matt Artz (https://itch.io/profile/xzany) and Game Collectable Pack - Pixelart by aamatniekss.  
 Asset sources and credits will be given to their rightful creators. 
 
 **ANIMATION**
