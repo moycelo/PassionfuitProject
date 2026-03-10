@@ -20,5 +20,5 @@ In addition, I plan to design a new menu screen, score display and figuring out 
 Visual and audio will be added to improve the overall presentation
 
 **Assets**
-All the assets in this project will be downloaded from a free online source. 
+Assets used in this projects is called Samurai 2D Art.  
 Asset sources and credits will be given to their rightful creators. 
