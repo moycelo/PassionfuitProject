@@ -22,3 +22,11 @@ Visual and audio will be added to improve the overall presentation
 **Assets**
 Assets used in this projects is called Samurai 2D Art.  
 Asset sources and credits will be given to their rightful creators. 
+
+**ANIMATION**
+Player: 
+- Added IDLE animation
+- Added RUN animation
+- Added JUMP animation
+- Added Attack animation (on click)
+- Animation added for collectible
